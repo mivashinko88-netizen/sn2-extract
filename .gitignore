@@ -1,0 +1,13 @@
+# build artifacts
+bin/
+obj/
+
+# extracted game data and third-party files are NOT redistributed:
+# - Subnautica 2 is copyrighted by Unknown Worlds (and in early access)
+# - the .usmap is a community mod, not mine to ship
+# supply your own (see README) to run this.
+creatures.json
+da_files.txt
+hammerhead*.json
+mappings/
+*.usmap
